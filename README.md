@@ -30,3 +30,30 @@ The repository will be organised into folders for datasets, reports, notebooks, 
 Week 1: Agribusiness Data Analysis Planning.
 
 This repository is a work in progress. Analysis results will be added after the relevant datasets have been collected and reviewed.
+
+## Week 2: Data Cleaning and Preprocessing
+
+This week focuses on cleaning and preparing agricultural data using Python.
+
+### Work Completed
+- Created a sample agricultural dataset for wheat and soybean.
+- Identified missing values and duplicate records.
+- Standardized crop names and date formats.
+- Handled missing prices using median imputation.
+- Validated the cleaned dataset.
+- Exported the cleaned data into CSV format.
+
+### Tools and Libraries
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Google Colab
+
+### Project Files
+- `week-2-data-cleaning/data_cleaning.ipynb` – Python notebook.
+- `week-2-data-cleaning/sample_agri_data.csv` – Original sample dataset.
+- `week-2-data-cleaning/cleaned_agri_data.csv` – Cleaned dataset.
+- `week-2-data-cleaning/requirements.txt` – Required Python libraries.
+
+**Note:** The dataset used in Week 2 is fictional sample data created for practising data cleaning. It does not represent actual agricultural market observations.
